@@ -3,13 +3,3 @@ logo: https://github.com/cjoshreid/cjoshreid.github.io/blob/main/docs/unnamed.pn
 #description:
 theme: jekyll-theme-minimal 
 
-<html>
-<head>
-<style>
-body {
-  background-image: url('{{ site.baseurl }}/webfonts/background.jpg');
-}
-</style>
-</head>
-
-</html>
